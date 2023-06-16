@@ -28,7 +28,10 @@ You can also just clone this repository directly if you do not want to track you
 ```shell
 git clone https://github.com/BigBadMuttuH/astronvim_config.git ~/.config/nvim/lua/user
 ```
-
+On Windows
+```powershell
+git clone https://github.com/BigBadMuttuH/astronvim_config.git $env:LOCALAPPDATA\nvim\lua\user
+```
 #### Start Neovim
 
 ```shell
