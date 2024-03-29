@@ -9,5 +9,8 @@ return {
   --     require("lsp_signature").setup()
   --   end,
   -- },
-  "folke/tokyonight.nvim"
+  --
+  "linux-cultist/venv-selector.nvim",
+  "folke/tokyonight.nvim",
+  "Mofiqul/dracula.nvim",
 }
