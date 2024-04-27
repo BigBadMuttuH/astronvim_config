@@ -13,4 +13,5 @@ return {
   "linux-cultist/venv-selector.nvim",
   "folke/tokyonight.nvim",
   "Mofiqul/dracula.nvim",
+  "Exafunction/codeium.vim",
 }
